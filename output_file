@@ -1,0 +1,89 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+[Warning: Name is nonexistent or not a directory:
+/scratch/dy1n16/SMDS_Standard/TESTdata] 
+[> In path (line 109)
+  In addpath (line 96)
+  In startup (line 6)] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+j =
+
+     1
+
+
+i =
+
+     1
+
+Overall Accuracy Rate: 1.150058e-01  
+Overall Accuracy Rate: 9.041033e-01  
+Overall Accuracy Rate: 8.783971e-01  
+Overall Accuracy Rate: 8.639319e-01  
+
+i =
+
+     2
+
+Overall Accuracy Rate: 5.027666e-02  
+Overall Accuracy Rate: 9.062942e-01  
+Overall Accuracy Rate: 8.795144e-01  
+Overall Accuracy Rate: 8.572706e-01  
+
+i =
+
+     3
+
+Overall Accuracy Rate: 2.793504e-02  
+Overall Accuracy Rate: 9.074426e-01  
+Overall Accuracy Rate: 8.783902e-01  
+Overall Accuracy Rate: 8.550544e-01  
+
+i =
+
+     4
+
+Overall Accuracy Rate: 1.560666e-02  
+Overall Accuracy Rate: 9.074105e-01  
+Overall Accuracy Rate: 8.795570e-01  
+Overall Accuracy Rate: 8.517209e-01  
+
+i =
+
+     5
+
+Overall Accuracy Rate: 1.114318e-02  
+Overall Accuracy Rate: 8.928417e-01  
+Overall Accuracy Rate: 8.728405e-01  
+Overall Accuracy Rate: 8.472079e-01  
+
+i =
+
+     6
+
+Overall Accuracy Rate: 6.710743e-03  
+Overall Accuracy Rate: 8.571649e-01  
+Overall Accuracy Rate: 8.628088e-01  
+Overall Accuracy Rate: 8.461148e-01  
+
+i =
+
+     7
+
+Overall Accuracy Rate: 8.970630e-03  
+Overall Accuracy Rate: 7.711525e-01  
+Overall Accuracy Rate: 8.583706e-01  
+Overall Accuracy Rate: 8.516714e-01  
+
+i =
+
+     8
+
+Overall Accuracy Rate: 1.118685e-02  

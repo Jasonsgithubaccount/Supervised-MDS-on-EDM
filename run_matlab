@@ -1,0 +1,19 @@
+#!/bin/bash
+#PBS -S /bin/bash
+# Script to run a single Matlab job 
+
+# set default resource requirements for job (this is for a 4 hour job)
+# - these can be overridden on the qsub command line 
+#PBS -l walltime=4:00:00 
+
+# use Matlab module to set up the matlab environment
+module load matlab/2018a
+
+# Change to directory from which job was submitted.
+cd /scratch/dy1n16/SMDS_Standard/
+
+# Run matlab commands in the file matlab_input, output goes to file output_file
+matlab -nojvm -nodisplay < matlab_input > output_file
+
+# Alternate form running matlab commands in the script file mytest.M
+# matlab -nojvm -nodisplay -r mytest > output_file

@@ -1,0 +1,17 @@
+addpath("/scratch/dy1n16/SMDS_Standard/");
+addpath("/scratch/dy1n16/SMDS_Standard/SMDSfuns");
+addpath("/scratch/dy1n16/SMDS_Standard/funs");
+addpath("/scratch/dy1n16/wSMDSEDMResults");
+
+
+
+
+
+
+datasets={'UWaveGestureLibraryAll'};
+path='/scratch/dy1n16/TSCResults';
+disttypes = {'ERP'};
+proceed =SMDS_results_gridsearch_forURCDataWithExistDistanceFile(datasets,disttypes, path)
+
+
+
