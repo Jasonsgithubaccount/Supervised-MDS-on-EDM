@@ -2,3 +2,5 @@
 Supervised multidimensional scaling based on euclidean distance matrix
 This project is for 
 ss
+
+asssd
